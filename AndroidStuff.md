@@ -8,7 +8,7 @@
 
 #### [3. Modded Applications](/AndroidStuff.md#3-modded-applications)
 
-#### [4. Miscellaneous Applications](/AndroidStuff.md#4-miscellaneous-applications)
+#### [4. Miscellaneous Applications](/AndroidStuff.md#4-miscellaneous-applications-1)
 
 #### [5. DITO SIM No Data Fix](/AndroidStuff.md#5-dito-sim-setup)
 
